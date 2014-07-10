@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">First Android App</string>
+    <string name="hello">Hello World, AndroidFacebookSample!</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="APP_ID">409704949167512</string>
+    
+</resources>
+
